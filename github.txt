@@ -1,3 +1,7 @@
 my second commit
+<<<<<<< HEAD
 new branch
 today news
+=======
+yesterday news
+>>>>>>> main
